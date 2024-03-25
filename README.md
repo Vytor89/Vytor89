@@ -1,6 +1,6 @@
 # Bem vindo ao meu **GitHub**
 ```
-echo " olá ser humano que se encontra do outro lado da tela!
+echo "olá ser humano que se encontra do outro lado da tela!"
 ```
 
 <!--
