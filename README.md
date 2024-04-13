@@ -2,7 +2,11 @@
 ```
 echo "olá ser humano que se encontra do outro lado da tela!"
 ```
+>[!Note]
+>Lembre de beber água.
 
+>[!CAUTION]
+> Seu rim agradece 
 <!--
 **Vytor89/Vytor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
